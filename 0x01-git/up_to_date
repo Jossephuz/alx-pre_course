@@ -1,1 +1,1 @@
-echo 'updated readme' > README.md
+"git pull"
